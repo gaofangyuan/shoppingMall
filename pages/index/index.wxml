@@ -1,0 +1,13 @@
+<!-- 轮播图 -->
+<cpn-swiper bannerImg="{{bannerImg}}" bind:banner_image="banner_image" />
+<cpn-top2 listImg="{{listImg}}" textAr="{{textAr}}" bind:clk_viewcls="clk_viewcls" />
+
+<text class="cs_mod3_t1">本周流行</text>
+<view class="cs_mod3_v1">
+  <block wx:for="{{8}}">
+    <view class="cs_mod3_v2" >
+      <image class="cs_mod3_img1" src="https://img.zcool.cn/community/017d425ebe1757a80120720028b9be.jpg@1280w_1l_2o_100sh.jpg" />
+      <text class="cs_mod_t2">模块</text>
+    </view>
+  </block>
+</view>

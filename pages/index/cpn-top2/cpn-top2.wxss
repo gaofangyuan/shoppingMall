@@ -1,0 +1,21 @@
+.cs_v1 {
+  display: flex;
+  padding: 30rpx 0;
+  border-bottom: 18rpx solid #F2F2F2;
+  border-top: 18rpx solid #F2F2F2;
+}
+.cs_v2 {
+  flex: 1;
+  text-align: center;
+}
+.cs_img {
+  width: 167.5rpx;
+  height: 167.5rpx;
+  margin: 10rpx;
+  border-radius: 167.5rpx;
+  display: block;
+}
+.cs_text {
+  color: #666666;
+  font-size: 32rpx;
+}

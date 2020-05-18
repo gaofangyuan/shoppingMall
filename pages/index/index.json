@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "cpn-swiper": "/components/cpn-swiper/cpn-swiper",
+    "cpn-top2": "/pages/index/cpn-top2/cpn-top2"
+  },
+  "navigationBarBackgroundColor": "#55A5C5",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "首页",
+  "backgroundColor": "#FFEEDD"
+  
+}

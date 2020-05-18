@@ -1,0 +1,60 @@
+/* 轮播 */
+.banner{
+  width: 750rpx !important;
+  height: 400rpx !important;
+  background: #000000 !important;
+}
+.banImg{
+  width: 750rpx !important;
+  height: 400rpx !important;
+}
+
+/* 模块2 */
+.cs_v1 {
+  display: flex;
+  padding: 30rpx 0;
+  border-bottom: 18rpx solid #F2F2F2;
+  border-top: 18rpx solid #F2F2F2;
+}
+.cs_v2 {
+  flex: 1;
+  text-align: center;
+}
+.cs_img {
+  width: 167.5rpx;
+  height: 167.5rpx;
+  margin: 10rpx;
+  border-radius: 167.5rpx;
+  display: block;
+}
+.cs_text {
+  color: #666666;
+  font-size: 32rpx;
+}
+
+/* 模块3 */
+.cs_mod3_v1 {
+  width: 100%;
+  text-align: center;
+}
+.cs_mod3_v2 {
+  width: 25%;
+  float: left;
+  padding: 10rpx 0;
+}
+.cs_mod3_t1 {
+  text-align: center;
+  display: block;
+  width: 100%;
+}
+.cs_mod3_t2 {
+  color: #666666;
+  line-height: 100rpx;
+}
+.cs_mod3_img1 {
+  width: 167.5rpx;
+  height: 167.5rpx;
+  margin: 10rpx;
+  border-radius: 167.5rpx;
+  display: block;
+}

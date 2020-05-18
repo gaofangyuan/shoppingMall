@@ -1,0 +1,2 @@
+<!--pages/index/url1/url.wxml-->
+<text>{{name}}</text>

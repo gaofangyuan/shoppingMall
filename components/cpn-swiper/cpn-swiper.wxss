@@ -1,0 +1,9 @@
+.banner{
+  width: 750rpx;
+  height: 400rpx;
+  background: #000000;
+}
+.banImg{
+  width: 750rpx;
+  height: 400rpx;
+}
