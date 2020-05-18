@@ -1,0 +1,16 @@
+{
+  "data": {
+    "list": [
+		  {"name": "名称"},
+		  {"age": 18},
+		  {"sex": "男"}
+		],
+	"time": "09:03",
+	"bannerImg": [
+		{"img": "https://img.zcool.cn/community/017d425ebe1757a80120720028b9be.jpg@1280w_1l_2o_100sh.jpg"},
+		{"img": "https://img.zcool.cn/community/0133185ebe1758a801207200fdd0a0.jpg@1280w_1l_2o_100sh.jpg"},
+		{"img": "https://img.zcool.cn/community/01c8675ebe1757a8012072004b98ba.jpg@1280w_1l_2o_100sh.jpg"},
+		{"img": "https://img.zcool.cn/community/01b0435ebe1758a801214814ac7827.jpg@1280w_1l_2o_100sh.jpg"}
+	]
+  }
+}
