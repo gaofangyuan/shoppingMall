@@ -1,0 +1,9 @@
+<view class="cs_mod4_v1">
+  <block wx:for="{{mall}}" wx:key="index">
+    <view class="cs_mod4_v2" bind:tap="clk_detail" data-index="{{index}}">
+      <image class="cs_mod4_img1" src="{{item.img[0]}}" mode="aspectFill" lazy-load="{{true}}" />
+      <text class="cs_mod4_t2">{{'￥' + item.price}}</text>
+      <text class="cs_mod4_t1">{{item.title}}</text>
+    </view>
+  </block>
+</view>

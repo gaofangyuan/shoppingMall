@@ -26,9 +26,12 @@ Component({
   methods: {
     banner_image(event) {
       // 获取下标
+      // console.log(event);
       var index = parseInt(event.target.dataset.index);
+      var bannerImg = event.target.dataset.src;
+      // console.log(bannerImg);
       // 传递下标
-      this.triggerEvent('banner_image', {'index': index}, {});
+      this.triggerEvent('banner_image', {'index': index, 'src': bannerImg}, {});
     }
   }
 })

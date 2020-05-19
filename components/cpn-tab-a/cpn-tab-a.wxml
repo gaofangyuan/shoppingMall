@@ -1,0 +1,5 @@
+<view class="tab">
+  <block wx:for="{{title}}" wx:key="index">
+    <view class="tab_t {{botB == index ? 'active' : ''}}" bind:tap="cpn_clk_tab" data-index="{{index}}">{{item}}</view>
+  </block>
+</view>

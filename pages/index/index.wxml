@@ -2,12 +2,18 @@
 <cpn-swiper bannerImg="{{bannerImg}}" bind:banner_image="banner_image" />
 <cpn-top2 listImg="{{listImg}}" textAr="{{textAr}}" bind:clk_viewcls="clk_viewcls" />
 
-<text class="cs_mod3_t1">本周流行</text>
 <view class="cs_mod3_v1">
-  <block wx:for="{{8}}">
+  <text class="cs_mod3_t1">本周流行</text>
+  <block wx:for="{{8}}" wx:key="index">
     <view class="cs_mod3_v2" >
-      <image class="cs_mod3_img1" src="https://img.zcool.cn/community/017d425ebe1757a80120720028b9be.jpg@1280w_1l_2o_100sh.jpg" />
-      <text class="cs_mod_t2">模块</text>
+      <image class="cs_mod3_img1" src="https://img.zcool.cn/community/01c8675ebe1757a8012072004b98ba.jpg@1280w_1l_2o_100sh.jpg" mode="aspectFill" />
+      <text class="cs_mod3_t2">模块</text>
     </view>
   </block>
 </view>
+<view class="partition"></view>
+
+<cpn-tab-a title="{{['分类一', '分类二', '分类三']}}" bind:cpn_clk_tab="cpn_clk_tab" class="{{isTabFixed ? 'fixed':'absolute'}}" />
+<!-- <cpn-tab-a title="{{['分类一', '分类二', '分类三']}}" wx:if="{{isTabFixed}}" /> -->
+<cpn-mall-a bind:clk_detail="clk_detail" mall="{{mall}}" />
+<cpn-back-top wx:if="{{showBackTop}}" />

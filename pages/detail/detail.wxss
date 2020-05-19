@@ -1,0 +1,25 @@
+/* 轮播 */
+.banner{
+  width: 750rpx !important;
+  height: 600rpx !important;
+  background: #000000 !important;
+}
+.banImg{
+  width: 750rpx !important;
+  height: 600rpx !important;
+}
+
+.cs_mod4_t1 {
+  font-size: 32rpx;
+  color: #888888;
+  padding: 0 20rpx;
+  display: block;
+  margin-bottom: 20rpx;
+}
+.cs_mod4_t2 {
+  color: #FCC111;
+  font-size: 40rpx;
+  font-weight: 600;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 0 20rpx;
+}

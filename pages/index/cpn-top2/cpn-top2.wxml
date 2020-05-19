@@ -1,7 +1,7 @@
 <view class="cs_v1">
   <block wx:for="{{listImg}}" wx:key="index">
     <view class="cs_v2" data-index="{{index}}" bind:tap="clk_viewcls">
-      <image class="cs_img" src="{{item.img}}" mode="aspectFill"></image>
+      <image class="cs_img" src="{{item}}" mode="aspectFill"></image>
       <text class="cs_text">{{textAr[index]}}</text>
     </view>
   </block>

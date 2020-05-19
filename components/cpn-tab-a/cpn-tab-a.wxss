@@ -1,0 +1,21 @@
+/* components/cpn-tab-a/cpn-tab-a.wxss */
+.tab{
+  background: #FFFFFF;
+  display: flex;
+  height: 100rpx;
+  line-height: 100rpx;
+}
+.tab_t {
+  flex: 1;
+  color: #666666;
+  font-size: 32rpx;
+  text-align: center;
+  margin: 0 60rpx;
+}
+
+.active {
+  color: #111111;
+  border-bottom: 10rpx solid #55A5C5;
+  /* background: #00E5D5; */
+  font-weight: 600;
+}

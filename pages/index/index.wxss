@@ -33,9 +33,18 @@
 }
 
 /* 模块3 */
+.partition {
+  width: 100%;
+  height: 20rpx;
+  background: #f2f2f2;
+  clear: both;
+  position: relative;
+  top: 20rpx;
+}
 .cs_mod3_v1 {
   width: 100%;
   text-align: center;
+  position: relative;
 }
 .cs_mod3_v2 {
   width: 25%;
@@ -46,15 +55,68 @@
   text-align: center;
   display: block;
   width: 100%;
+  font-family: cursive;
+  color: #55A5C5;
+  font-size: 44rpx;
+  font-weight: 600;
+  line-height: 80rpx;
 }
 .cs_mod3_t2 {
   color: #666666;
-  line-height: 100rpx;
+  font-size: 32rpx;
+  line-height: 32rpx;
 }
 .cs_mod3_img1 {
-  width: 167.5rpx;
-  height: 167.5rpx;
-  margin: 10rpx;
-  border-radius: 167.5rpx;
-  display: block;
+  width: 150rpx;
+  height: 150rpx;
+  margin: 18.75rpx;
+  border-radius: 150rpx;
+}
+
+.fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+.absolute {
+  position: relative;
+}
+
+/* 模块4 */
+.cs_mod4_v1 {
+  background: #F2F2F2;
+  width: 750rpx;
+  height: auto;
+  position: absolute;
+}
+.cs_mod4_v2 {
+  float: left;
+  width: 355rpx;
+  margin: 20rpx 10rpx;
+  background: #FFFFFF;
+  border-radius: 20rpx;
+}
+.cs_mod4_img1 {
+  width: 355rpx;
+  height: 500rpx;
+  border-radius: 20rpx 20rpx 0 0;
+}
+.cs_mod4_t1 {
+  font-size: 32rpx;
+  color: #888888;
+  padding: 0 20rpx;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  margin-bottom: 20rpx;
+}
+.cs_mod4_t2 {
+  color: #FCC111;
+  font-size: 40rpx;
+  font-weight: 600;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 0 20rpx;
 }

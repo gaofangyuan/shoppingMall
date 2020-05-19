@@ -1,0 +1,36 @@
+/* 模块4 */
+.cs_mod4_v1 {
+  background: #F2F2F2;
+  width: 750rpx;
+  height: auto;
+  position: absolute;
+}
+.cs_mod4_v2 {
+  float: left;
+  width: 355rpx;
+  margin: 20rpx 10rpx;
+  background: #FFFFFF;
+  border-radius: 20rpx;
+}
+.cs_mod4_img1 {
+  width: 355rpx;
+  height: 500rpx;
+  border-radius: 20rpx 20rpx 0 0;
+}
+.cs_mod4_t1 {
+  font-size: 32rpx;
+  color: #888888;
+  padding: 0 20rpx;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  margin-bottom: 20rpx;
+}
+.cs_mod4_t2 {
+  color: #FCC111;
+  font-size: 40rpx;
+  font-weight: 600;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 0 20rpx;
+}
