@@ -5,12 +5,95 @@
 		  {"age": 18},
 		  {"sex": "男"}
 		],
-	"time": "09:03",
-	"bannerImg": [
-		{"img": "https://img.zcool.cn/community/017d425ebe1757a80120720028b9be.jpg@1280w_1l_2o_100sh.jpg"},
-		{"img": "https://img.zcool.cn/community/0133185ebe1758a801207200fdd0a0.jpg@1280w_1l_2o_100sh.jpg"},
-		{"img": "https://img.zcool.cn/community/01c8675ebe1757a8012072004b98ba.jpg@1280w_1l_2o_100sh.jpg"},
-		{"img": "https://img.zcool.cn/community/01b0435ebe1758a801214814ac7827.jpg@1280w_1l_2o_100sh.jpg"}
-	]
+		"time": "09:03",
+		"bannerImg": [
+			"https://img.zcool.cn/community/017d425ebe1757a80120720028b9be.jpg@1280w_1l_2o_100sh.jpg",
+			"https://img.zcool.cn/community/0133185ebe1758a801207200fdd0a0.jpg@1280w_1l_2o_100sh.jpg",
+			"https://img.zcool.cn/community/01c8675ebe1757a8012072004b98ba.jpg@1280w_1l_2o_100sh.jpg",
+			"https://img.zcool.cn/community/01b0435ebe1758a801214814ac7827.jpg@1280w_1l_2o_100sh.jpg"
+		],
+		"mall1": [
+			{
+				"tag": "分类一",
+				"img": [
+					"http://img13.360buyimg.com/n1/jfs/t1/113315/38/3214/156303/5ea6c140E96b638fe/550abba5a9b8c9d0.jpg", 
+					"http://img13.360buyimg.com/n1/jfs/t1/109889/35/14408/172167/5ea6c146Ef96174c0/494dd9a657e6b2de.jpg",
+					"http://img13.360buyimg.com/n1/jfs/t1/109932/1/14542/206797/5ea6c14aE021ee613/2e0794714abd5ffa.jpg",
+					"http://img13.360buyimg.com/n1/jfs/t1/115638/5/3155/222005/5ea6c14dE97f59ee4/f80a0511988cecd0.jpg"
+				],
+				"title": "A家 沙发 布艺沙发客厅家具现代简约北欧实木框架可拆洗大小户型植绒布艺沙发家具组合整装 浅灰色 三人位+右贵妃",
+				"price": "2499"
+			},
+			{
+				"tag": "分类一",
+				"img": [
+					"http://img13.360buyimg.com/n1/jfs/t1/113315/38/3214/156303/5ea6c140E96b638fe/550abba5a9b8c9d0.jpg", 
+					"http://img13.360buyimg.com/n1/jfs/t1/109889/35/14408/172167/5ea6c146Ef96174c0/494dd9a657e6b2de.jpg",
+					"http://img13.360buyimg.com/n1/jfs/t1/109932/1/14542/206797/5ea6c14aE021ee613/2e0794714abd5ffa.jpg",
+					"http://img13.360buyimg.com/n1/jfs/t1/115638/5/3155/222005/5ea6c14dE97f59ee4/f80a0511988cecd0.jpg"
+				],
+				"title": "A家 沙发 布艺沙发客厅家具现代简约北欧实木框架可拆洗大小户型植绒布艺沙发家具组合整装 浅灰色 三人位+右贵妃",
+				"price": "3499"
+			},
+			{
+				"tag": "分类一",
+				"img": [
+					"http://img13.360buyimg.com/n1/jfs/t1/113315/38/3214/156303/5ea6c140E96b638fe/550abba5a9b8c9d0.jpg", 
+					"http://img13.360buyimg.com/n1/jfs/t1/109889/35/14408/172167/5ea6c146Ef96174c0/494dd9a657e6b2de.jpg",
+					"http://img13.360buyimg.com/n1/jfs/t1/109932/1/14542/206797/5ea6c14aE021ee613/2e0794714abd5ffa.jpg",
+					"http://img13.360buyimg.com/n1/jfs/t1/115638/5/3155/222005/5ea6c14dE97f59ee4/f80a0511988cecd0.jpg"
+				],
+				"title": "A家 沙发 布艺沙发客厅家具现代简约北欧实木框架可拆洗大小户型植绒布艺沙发家具组合整装 浅灰色 三人位+右贵妃",
+				"price": "2999"
+			}
+		],
+		"mall2": [
+			{
+				"tag": "分类二",
+				"img": [
+					"http://img10.360buyimg.com/n1/jfs/t1/117021/3/646/193113/5e8ed171E7c40c8f7/9b39b7b6c3bb136d.jpg", 
+					"http://img10.360buyimg.com/n1/jfs/t1/103017/30/17891/209063/5e8ed171Ee45ed607/8c05701179db4540.jpg",
+					"http://img10.360buyimg.com/n5/jfs/t1/88729/26/18112/181855/5e8ed172Ed562a379/6ea4170498600598.jpg",
+					"http://img10.360buyimg.com/n5/jfs/t1/88729/26/18112/181855/5e8ed172Ed562a379/6ea4170498600598.jpg"
+				],
+				"title": "A家 轻奢意式茶几电视柜组合极简岩板材质超强储物茶几客厅小户型创意后现代风格BQ404/BQ405 意式极简 茶几 BQ404",
+				"price": "1999"
+			},
+			{
+				"tag": "分类二",
+				"img": [
+					"http://img10.360buyimg.com/n1/jfs/t1/117021/3/646/193113/5e8ed171E7c40c8f7/9b39b7b6c3bb136d.jpg", 
+					"http://img10.360buyimg.com/n1/jfs/t1/103017/30/17891/209063/5e8ed171Ee45ed607/8c05701179db4540.jpg",
+					"http://img10.360buyimg.com/n5/jfs/t1/88729/26/18112/181855/5e8ed172Ed562a379/6ea4170498600598.jpg",
+					"http://img10.360buyimg.com/n5/jfs/t1/88729/26/18112/181855/5e8ed172Ed562a379/6ea4170498600598.jpg"
+				],
+				"title": "A家 轻奢意式茶几电视柜组合极简岩板材质超强储物茶几客厅小户型创意后现代风格BQ404/BQ405 意式极简 茶几 BQ404",
+				"price": "1299"
+			}
+		],
+		"mall3": [
+			{
+				"tag": "分类三",
+				"img": [
+					"http://img11.360buyimg.com/n1/jfs/t1/111229/17/6377/188006/5eb92e60Edb5cc708/6494a1d1e06b1183.jpg", 
+					"http://img11.360buyimg.com/n1/jfs/t1/125189/40/1059/162015/5eb92e60Ed6641289/11dac22eb2cb37fa.jpg",
+					"http://img11.360buyimg.com/n1/jfs/t1/115602/12/6325/128730/5eb92e60E5e11549e/d1ac646321ef1c51.jpg",
+					"http://img11.360buyimg.com/n1/jfs/t1/122528/37/1033/158670/5eb92e60E99b6d612/f3a697ab8684b4d8.jpg"
+				],
+				"title": "A家 电动升降茶几火烧石茶几电视柜组合简约小户型带电磁炉智能茶桌功夫茶具套装一体客厅办公室多功能茶台 胡桃色黑框架 移动茶车",
+				"price": "9999"
+			},
+			{
+				"tag": "分类三",
+				"img": [
+					"http://img11.360buyimg.com/n1/jfs/t1/111229/17/6377/188006/5eb92e60Edb5cc708/6494a1d1e06b1183.jpg", 
+					"http://img11.360buyimg.com/n1/jfs/t1/125189/40/1059/162015/5eb92e60Ed6641289/11dac22eb2cb37fa.jpg",
+					"http://img11.360buyimg.com/n1/jfs/t1/115602/12/6325/128730/5eb92e60E5e11549e/d1ac646321ef1c51.jpg",
+					"http://img11.360buyimg.com/n1/jfs/t1/122528/37/1033/158670/5eb92e60E99b6d612/f3a697ab8684b4d8.jpg"
+				],
+				"title": "A家 电动升降茶几火烧石茶几电视柜组合简约小户型带电磁炉智能茶桌功夫茶具套装一体客厅办公室多功能茶台 胡桃色黑框架 移动茶车",
+				"price": "7999"
+			}
+		]
   }
 }
